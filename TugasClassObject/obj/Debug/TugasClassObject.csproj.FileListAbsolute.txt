@@ -1,0 +1,7 @@
+F:\Semester 2\Pemrograman\TugasClassObject\TugasClassObject\bin\Debug\TugasClassObject.exe.config
+F:\Semester 2\Pemrograman\TugasClassObject\TugasClassObject\bin\Debug\TugasClassObject.exe
+F:\Semester 2\Pemrograman\TugasClassObject\TugasClassObject\bin\Debug\TugasClassObject.pdb
+F:\Semester 2\Pemrograman\TugasClassObject\TugasClassObject\obj\Debug\TugasClassObject.csproj.AssemblyReference.cache
+F:\Semester 2\Pemrograman\TugasClassObject\TugasClassObject\obj\Debug\TugasClassObject.csproj.CoreCompileInputs.cache
+F:\Semester 2\Pemrograman\TugasClassObject\TugasClassObject\obj\Debug\TugasClassObject.exe
+F:\Semester 2\Pemrograman\TugasClassObject\TugasClassObject\obj\Debug\TugasClassObject.pdb
